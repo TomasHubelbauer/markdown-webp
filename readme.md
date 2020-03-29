@@ -14,8 +14,8 @@ https://caniuse.com/#feat=webp
 
 The lack of support in Safari is a bummer.
 
-- It works in the VS Code MarkDown preview
-- [ ] Works in GitHub MarkDown preview?
+- Supported in VS Code MarkDown preview
+- Supported in GitHub MarkDown preview
 
 ## Alternatives
 
