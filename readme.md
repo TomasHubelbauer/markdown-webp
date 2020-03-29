@@ -6,7 +6,7 @@ image.
 
 ![](test.webp)
 
-Test image courtest of [Mathias Bynens](https://mathiasbynens.be/demo/animated-webp).
+Test image courtesy of [Mathias Bynens](https://mathiasbynens.be/demo/animated-webp).
 
 ## Support
 
