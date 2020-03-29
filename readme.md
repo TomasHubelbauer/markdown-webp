@@ -6,6 +6,8 @@ image.
 
 ![](test.webp)
 
+Test image courtest of [Mathias Bynens](https://mathiasbynens.be/demo/animated-webp).
+
 ## Support
 
 WebP has good, but not amazing browser support:
