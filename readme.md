@@ -10,12 +10,9 @@ Test image courtesy of [Mathias Bynens](https://mathiasbynens.be/demo/animated-w
 
 ## Support
 
-WebP has good, but not amazing browser support:
-
 https://caniuse.com/#feat=webp
 
-The lack of support in Safari is a bummer.
-
+- Supported in web browsers (including Safari as of 2022)
 - Supported in VS Code MarkDown preview
 - Supported in GitHub MarkDown preview
 
