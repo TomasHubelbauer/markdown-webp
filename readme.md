@@ -1,7 +1,7 @@
 # MarkDown Animated WebP
 
-This repository serves as a test of animated WebP support in GitHub and VS Code
-MarkDown previews when a WebP image is embedded in the MarkDown document as an
+This repository serves as the test of animated WebP support in GitHub and VS Code
+MarkDown previews when a WebP image is embedded in the MarkDown document as the
 image.
 
 ![](test.webp)
